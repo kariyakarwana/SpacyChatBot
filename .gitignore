@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+env/
+.env/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+gen-lang-client-0756808717-936156237bba.json
